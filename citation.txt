@@ -1,0 +1,7 @@
+@inproceedings{REPO013,
+    author = "Wu, Haiping and Xiao, Bin and Codella, Noel and Liu, Mengchen and Dai, Xiyang and Yuan, Lu and Zhang, Lei",
+    booktitle = "Proceedings of the IEEE/CVF international conference on computer vision",
+    pages = "22--31",
+    title = "{CvT: Introducing Convolutions to Vision Transformers}",
+    year = "2021"
+}
